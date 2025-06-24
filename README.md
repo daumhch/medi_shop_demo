@@ -1,16 +1,20 @@
 # medi_shop_demo
 
-A new Flutter project.
+## 프로젝트 소개
 
-## Getting Started
+사용자의 위치를 중심으로
+의료기기 판매업으로 등록된 업체 목록을
+지도와 함께 표시합니다.
 
-This project is a starting point for a Flutter application.
+## 개발 기간
+2025년 6월
+공공데이터 검색 및 분석
+공공데이터 변환
+Flutter UI 구성
+Flutter 구현
 
-A few resources to get you started if this is your first Flutter project:
+## 개발 환경
+언어:Flutter
+IDE:VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 실행모습
