@@ -18,3 +18,12 @@ Flutter 구현
 IDE:VS Code
 
 ## 실행모습
+![Web에서 실행 시](https://github.com/daumhch/medi_shop_demo/blob/main/document/web%20example.png)
+![Android에서 실행 시](https://github.com/daumhch/medi_shop_demo/blob/main/document/android_example.png)
+
+## 특이사항
+공공데이터에서 제공하는 자료의 위도/경도 좌표와,
+본 프로젝트에서 사용한 flutter_map 라이브러리에서
+사용하는 위도/경도 좌표의 형식이 달라서,
+공공데이터에서 받은 자료의 위도/경도 좌표를
+C#을 이용하여 변환 작업을 거쳤습니다.
